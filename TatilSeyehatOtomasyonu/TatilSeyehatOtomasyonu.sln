@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TatilSeyehatOtomasyonu", "TatilSeyehatOtomasyonu\TatilSeyehatOtomasyonu.csproj", "{C50723BB-1287-4F01-95A8-EE9C4E254BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50723BB-1287-4F01-95A8-EE9C4E254BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50723BB-1287-4F01-95A8-EE9C4E254BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50723BB-1287-4F01-95A8-EE9C4E254BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50723BB-1287-4F01-95A8-EE9C4E254BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58711235-B28C-4A68-8020-512057CD0D08}
+	EndGlobalSection
+EndGlobal
